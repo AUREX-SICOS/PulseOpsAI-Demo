@@ -1,0 +1,3 @@
+:HL["/PulseOpsAI-Demo/_next/static/css/374cbac8276f4ee8.css","style"]
+1:[["children",{"s":"__PAGE__","h":160}]]
+0:{"b":"tR2QJt2IgZ30JTajvDHxJ","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
